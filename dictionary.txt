@@ -1,0 +1,14 @@
+Chair/a seat typically having four legs and a back for one person
+Lamp/a device for giving light
+Fridge/a piece of kitchen equipment that uses electricity to preserve food at a cold temperature
+Bed/a piece of furniture for sleep or rest
+Book/a written or printed work consisting of pages glued or sewn together along one side and bound in covers
+Window/an opening in the wall or roof of a building or vehicle, fitted with glass in a frame to admit light or air and allow people to see out");
+Mirror/a surface, typically of glass coated with a metal amalgam, which reflects a clear image
+Rug/a floor covering of thick woven material or animal skin, typically not extending over the entire floor
+Stairs/a set of steps leading from one floor of a building to another, typically inside the building
+Newspaper/a printed publication consisting of folded unstapled sheets and containing news, articles, advertisements, and correspondence
+Cup/a small bowl-shaped container for drinking from, typically having a handle
+Key/a small piece of shaped metal, which is inserted into a lock and turned to open or close it
+Clock/a mechanical or electrical device for measuring time
+Iron/a piece of equipment for making clothes flat and smooth
